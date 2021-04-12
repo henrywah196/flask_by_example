@@ -1,0 +1,1 @@
+web: gunicdorn app:app
